@@ -1,0 +1,9 @@
+El origen de Hadoop se remonta a 2004, cuando el ingeniero de software Doug Cutting, que por aquel entonces trabajaba en Google, describe en un documento técnicas para manejar grandes volúmenes de datos, desgranándolos en problemas cada vez más pequeños para hacerlos abordables. Poco después se marchó a Yahoo y allí siguió investigando hasta completar el desarrollo de la plataforma en 2008. 
+
+La procedencia del nombre es mucho menos técnica de lo que se podía esperar. El hijo de tres años de Cutting llamaba a su peluche Hadoop y así bautizó su inventor a la plataforma, que también tomaría de ahí su logo, un elefante amarillo.
+
+Hadoop como iniciativa Open Source (software libre) a raiz de la publicación de varios papers de Google sobre sus sistemas de archivo, su herramienta de mapas y el sistema BigTable Reduce. Como resultado nació un conjunto de soluciones en el entorno Apache: HDFS Apache, Apache MapReduce y Apache HBase; que se conocen como Hadoop, con herramientas como Sqoop o NoSQL, entre otros.
+
+La plataforma de código abierto dispone de un sistema para almacenar información en el que ésta se replica en varias máquinas, distribuyéndose de tal manera que si una máquina se cae no se pierdan los datos. Si es necesario añadir más información se añaden más servidores sin que haya problemas de compatibilidad o reorganización de los datos
+
+Hadoop es un sistema que se basa en dos grandes partes, los archivos HDFS y el sistema MapReduce. Sin embargo, también comentamos que el programa contenía numerosos programas que permitían facilitarle la vida al científico de datos, haciendo que no fuera necesario operar mediante la realización de complicados algoritmos. 
